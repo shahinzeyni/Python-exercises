@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: 'vazir';
+    src: url('../fonts/vazir.woff2') format('woff2');
+}
+
+body{
+  direction: rtl;
+  height: 100vh;
+  font-family: 'vazir';
+}
+
+header{
+  position: fixed;
+  background-color: black;
+  color: #fff;
+  width: 100%;
+  text-align: center;
+
+}
+h2{
+  font-size: 50px;
+}
+.progress-bar{
+  width: 100%;
+  height: 10px;
+  background: linear-gradient(to right,rgb(184,2,216),  rgb(255,0,43));
+}
+.progress{
+  width: 100%;
+  height: 10px;
+  background-color: #d1d1d1;
+}
+section{
+  padding-top: 100px;
+  padding-right: 60px;
+  text-align: justify;
+}
+section p{
+  padding: 10px 20px;
+  width: 90%;
+  font-size: 30px;
+  line-height: 40px;
+}
