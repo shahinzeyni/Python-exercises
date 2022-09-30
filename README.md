@@ -1,2 +1,2 @@
-# 14-days-of-training-with-Python-exercises-
+-Python-exercises-
 kind of exercises
