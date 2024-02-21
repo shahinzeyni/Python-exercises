@@ -11,7 +11,7 @@ Then, the output of the program should be:
 
 In case of input data being supplied to the question, it should be assumed to be a console input.
 
-Hints: Use float() to convert an integer to a float'''
+Hints:::::: Use float() to convert an integer to a float'''
 
 
 
